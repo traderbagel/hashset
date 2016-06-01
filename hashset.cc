@@ -3,10 +3,6 @@
 #include <stdio.h>
 #include <assert.h>
 
-/* These prime should determined by hash capacity */
-const unsigned int primeA = 97;
-const unsigned int primeB = 3079;
-
 struct hashset {
   char **table;
   size_t bits;
