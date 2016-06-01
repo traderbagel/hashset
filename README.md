@@ -1,5 +1,4 @@
 # Hashset 
----
 Hashset (unordered set) implement in C
 
 ## Example 
